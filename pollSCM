@@ -1,0 +1,3 @@
+make changes here and commit 
+and when you go back to jenkins , you will see jenkins automatically build your project . Because in Build Trigger you have specified 
+* * * * * * in pollSCM
